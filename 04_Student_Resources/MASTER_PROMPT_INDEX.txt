@@ -1,0 +1,24 @@
+🎯 WEB DEVELOPMENT TEACHING PROMPTS INDEX
+=========================================
+
+QUICK ACCESS:
+-------------
+1. LESSON_GUIDES.txt       - Create full student lesson guides
+2. CODE_EXAMPLES.txt       - Create practical code examples  
+3. HOMEWORK_ASSIGNMENTS.txt - Create real-world homework
+4. MINIPROJECTS.txt        - Create portfolio mini-projects
+
+USAGE WORKFLOW:
+--------------
+For each new week:
+1. Use LESSON_GUIDES.txt to create the main lesson
+2. Use CODE_EXAMPLES.txt to create practice exercises
+3. Use HOMEWORK_ASSIGNMENTS.txt to create homework
+4. Use MINIPROJECTS.txt for end-of-module projects
+
+PROMPT TIPS:
+------------
+- Always specify the exact topic and week number
+- Include what students already know
+- Mention specific learning objectives
+- Request real-world, practical applications

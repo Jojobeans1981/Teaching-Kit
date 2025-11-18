@@ -1,0 +1,37 @@
+CREATE PRACTICAL CODE EXAMPLES FOR WEB DEVELOPMENT LESSON
+
+**CONTEXT:** I need standalone, practical code examples for a web development lesson. These should be real, working examples that students can copy-paste and learn from.
+
+**LESSON TOPIC:** [Insert specific lesson topic here]
+
+**REQUIREMENTS:**
+- Create 3-5 practical code examples that build in complexity
+- Each example should be a complete, working HTML/CSS/JS file
+- Include both the code and a brief explanation of what it teaches
+- Examples should be progressive (simple → advanced)
+- Focus on real-world applications, not just theory
+- Include common mistakes and how to fix them
+- Add comments in the code explaining key concepts
+
+**EXAMPLE FORMAT:**
+Example 1: Basic Concept
+- Code: [Complete working code]
+- Teaches: [Specific concept]
+- Common issues: [What students might get wrong]
+
+Example 2: Intermediate Application  
+- Code: [Complete working code]
+- Teaches: [Building on previous concept]
+- Real-world use: [Where they'd use this]
+
+Example 3: Advanced Implementation
+- Code: [Complete working code]
+- Teaches: [Complex application]
+- Pro tips: [Expert advice]
+
+**SPECIFIC NEEDS FOR THIS REQUEST:**
+Topic: [Insert topic]
+Student Level: Beginner
+Key Concepts to Cover: [List 2-3 main concepts]
+
+**OUTPUT:** A set of practical, working code examples with explanations.

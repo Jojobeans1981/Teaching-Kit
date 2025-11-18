@@ -1,0 +1,49 @@
+CREATE NEXT WEB DEVELOPMENT STUDENT GUIDE
+
+**CONTEXT:** I am teaching a complete beginner web development course. Create a comprehensive HTML student guide for the NEXT topic in the sequence. Each guide should be fully independent and not require previous guides to understand.
+
+**CURRENT SEQUENCE STATUS:**
+- ✅ Week 1: HTML Foundations (COMPLETED)
+- 🔄 **NEXT NEEDED:** [Insert specific week/topic needed here]
+
+**REQUIRED FORMAT:** A complete, self-contained HTML file with:
+- Professional styling and clear navigation
+- Learning objectives for this specific lesson
+- Theory explanations with code examples
+- Hands-on exercises with step-by-step instructions
+- Homework assignment with clear requirements
+- Knowledge check/quiz section
+- Preparation for next lesson
+
+**CONTENT REQUIREMENTS:**
+- Assume student is a complete beginner but motivated
+- Include both conceptual understanding and practical skills
+- Provide copy-paste ready code examples
+- Add pro tips and common pitfalls to avoid
+- Make it engaging and encouraging
+- Include all necessary code within single HTML file
+
+**SPECIFIC TOPIC FOR THIS REQUEST:** [Insert the exact week and topic you need]
+
+**EXAMPLES OF TOPICS IN SEQUENCE:**
+- Week 2: CSS Styling & Design Fundamentals
+- Week 3: Development Environment & Git Setup
+- Week 4: JavaScript Basics & DOM Manipulation
+- Week 5: Responsive Design & Flexbox
+- Week 6: JavaScript Functions & Events
+- Week 7: CSS Grid & Advanced Layouts
+- Week 8: JavaScript Arrays & Objects
+- Week 9: Form Handling & Validation
+- Week 10: Project Planning & GitHub Pages
+- Week 11: Introduction to APIs
+- Week 12: Final Project Development
+
+**OUTPUT:** A complete, ready-to-use HTML student guide for the specified topic.
+
+**USAGE EXAMPLE:**
+To create Week 2 guide, replace:
+- "CURRENT SEQUENCE STATUS" with: ✅ Week 1: HTML Foundations (COMPLETED)
+- "NEXT NEEDED" with: Week 2: CSS Styling & Design Fundamentals
+- "SPECIFIC TOPIC" with: Week 2: CSS Styling & Design Fundamentals
+
+Then provide this entire prompt to ChatGPT.

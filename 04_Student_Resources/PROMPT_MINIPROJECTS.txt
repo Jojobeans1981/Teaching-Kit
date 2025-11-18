@@ -1,0 +1,38 @@
+CREATE MINI-PROJECTS FOR WEB DEVELOPMENT
+
+**CONTEXT:** I need mini-projects that combine multiple concepts into a single, cohesive project. These should feel like real-world applications.
+
+**SKILLS TO COMBINE:** [List 3-5 skills students have learned]
+**PROJECT DURATION:** 3-5 hours
+**COMPLEXITY LEVEL:** Beginner-friendly but impressive
+
+**PROJECT REQUIREMENTS:**
+- Create 1-2 mini-projects that feel like real applications
+- Include clear project specifications
+- Provide user stories or feature requirements
+- Include technical requirements
+- Add bonus features for extra credit
+- Make it portfolio-worthy
+- Include both front-end and basic functionality
+
+**PROJECT STRUCTURE:**
+Project: [Project Name]
+- Overview: [What the project does]
+- User Stories: [As a user, I can...]
+- Technical Requirements: [Must-use technologies/skills]
+- Features: [Core features list]
+- Bonus Features: [Extra challenges]
+- Success Metrics: [How to know it's complete]
+
+**EXAMPLE:**
+Project: Personal Portfolio Website
+- Overview: A responsive portfolio to showcase student work
+- User Stories: As a visitor, I can view projects, contact the owner, etc.
+- Tech: HTML5, CSS3, Responsive Design, JavaScript interactivity
+- Features: Navigation, project gallery, contact form, responsive layout
+- Bonus: Dark mode, animations, form validation
+
+**SPECIFIC NEEDS FOR THIS REQUEST:**
+Skills: [List skills to combine]
+Project Type: [Portfolio, Game, Tool, etc.]
+Output: Complete project specifications

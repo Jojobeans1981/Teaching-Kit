@@ -1,0 +1,3 @@
+@echo off
+echo Opening Week 1 HTML Guide...
+start "" "01_Student_Guides\week1_html_foundations.html"

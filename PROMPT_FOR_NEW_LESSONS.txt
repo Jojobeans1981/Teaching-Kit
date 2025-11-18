@@ -1,0 +1,10 @@
+QUICK PROMPT FOR NEW LESSONS:
+------------------------------
+Copy and paste this, updating the week number and topic:
+
+CREATE NEXT WEB DEVELOPMENT STUDENT GUIDE
+**CURRENT SEQUENCE STATUS:** [List completed weeks]
+**NEXT NEEDED:** [Week X: Topic Name]
+**SPECIFIC TOPIC FOR THIS REQUEST:** [Week X: Topic Name]
+
+Find the full detailed prompt in: 04_Student_Resources/RECURSIVE_PROMPT.txt

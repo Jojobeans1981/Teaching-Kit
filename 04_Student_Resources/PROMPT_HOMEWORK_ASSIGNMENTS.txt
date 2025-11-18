@@ -1,0 +1,37 @@
+CREATE REAL-WORLD HOMEWORK ASSIGNMENTS
+
+**CONTEXT:** I need practical homework assignments that help students apply what they learned in a real-world context. Assignments should be challenging but achievable for beginners.
+
+**LESSON TOPIC:** [Insert specific lesson topic here]
+**PREVIOUS SKILLS:** [List skills students already have]
+**NEW SKILLS:** [List skills from current lesson]
+
+**ASSIGNMENT REQUIREMENTS:**
+- Create 2-3 homework assignments with clear objectives
+- Include specific, measurable requirements
+- Provide starter code when appropriate
+- Include success criteria and learning outcomes
+- Add stretch goals for advanced students
+- Make it portfolio-worthy (something they'd show employers)
+- Include real-world context and practical applications
+
+**ASSIGNMENT STRUCTURE:**
+Assignment 1: Core Application
+- Objective: [Clear learning goal]
+- Requirements: [Specific tasks to complete]
+- Starter Code: [If applicable]
+- Success Criteria: [How they know they did well]
+- Real-world context: [Why this matters]
+
+Assignment 2: Creative Extension
+- Objective: [More advanced application]
+- Requirements: [Specific creative tasks]
+- Stretch Goals: [Bonus challenges]
+- Portfolio Value: [Why this looks good to employers]
+
+**SPECIFIC NEEDS FOR THIS REQUEST:**
+Topic: [Insert topic]
+Time Estimate: 2-4 hours
+Key Skills to Demonstrate: [List skills]
+
+**OUTPUT:** Practical, real-world homework assignments with clear structure.
