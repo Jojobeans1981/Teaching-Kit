@@ -1,81 +1,125 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Teaching Dashboard - Web Dev Course</title>
+    <title>Teaching Dashboard - Web Dev Course (Mac)</title>
     <style>
-        body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; }
-        .quick-links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding: 20px; }
-        .lesson-card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        .btn { display: block; padding: 10px; margin: 5px 0; background: #007cba; color: white; text-decoration: none; border-radius: 4px; text-align: center; }
-        .btn-ready { background: #28a745; }
-        .btn-coming { background: #6c757d; }
-        .btn-resource { background: #6f42c1; }
-        .btn-examples { background: #e36209; }
-        .btn-homework { background: #d63384; }
-        .btn-projects { background: #20c997; }
-        h1 { color: #333; }
-        .status { font-size: 12px; color: #666; margin: 5px 0; }
-        .prompt-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 20px 0; }
-        .celebration { 
+        body { 
+            font-family: 'SF Pro Text', -apple-system, BlinkMacSystemFont, sans-serif;
+            margin: 40px; 
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+        }
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            padding: 20px;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             color: white;
-            padding: 20px;
             border-radius: 10px;
-            text-align: center;
+        }
+        .mac-notice {
+            background: #e8f4fd;
+            border: 2px solid #007aff;
+            border-radius: 10px;
+            padding: 15px;
             margin: 20px 0;
+            text-align: center;
         }
-        .location {
-            background: #e9ecef;
-            padding: 10px;
-            border-radius: 5px;
-            font-size: 14px;
-            color: #666;
-            margin: 10px 0;
+        .quick-links { 
+            display: grid; 
+            grid-template-columns: repeat(2, 1fr); 
+            gap: 15px; 
+            padding: 20px; 
         }
+        .lesson-card { 
+            background: white; 
+            padding: 15px; 
+            border-radius: 8px; 
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
+            border: 1px solid #e0e0e0;
+        }
+        .btn { 
+            display: block; 
+            padding: 12px; 
+            margin: 8px 0; 
+            background: #007aff; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 8px; 
+            text-align: center; 
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .btn:hover { 
+            background: #0056cc; 
+            transform: translateY(-1px);
+        }
+        .btn-ready { background: #34c759; }
+        .btn-resource { background: #af52de; }
+        .btn-examples { background: #ff9500; }
+        .btn-homework { background: #ff3b30; }
+        .btn-projects { background: #32d74b; }
+        h1, h2, h3 { color: #1d1d1f; }
+        .status { font-size: 12px; color: #666; margin: 5px 0; }
+        .prompt-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin: 20px 0; }
     </style>
 </head>
 <body>
-    <div class="celebration">
-        <h1>üöÄ Web Development Course Dashboard</h1>
-        <p>Your organized teaching command center</p>
-    </div>
-    
-    <div class="location">
-        üìÅ Course Files Location: <strong>Desktop ‚Üí Web_Dev_Course</strong>
-    </div>
-    
-    <div class="quick-links">
-        <div class="lesson-card">
-            <h3>üìñ Week 1: HTML Foundations</h3>
-            <div class="status">‚úÖ Guide Ready</div>
-            <a href="01_Student_Guides/week1_html_foundations.html" class="btn btn-ready">Open Student Guide</a>
-            <div class="btn btn-coming">Homework (Coming Soon)</div>
+    <div class="container">
+        <div class="header">
+            <h1>ÌΩé Web Development Course Dashboard</h1>
+            <p>Mac Edition - Optimized for macOS</p>
         </div>
-        
-        <div class="lesson-card">
-            <h3>üé® Week 2: CSS Styling</h3>
-            <div class="status">üîÑ Coming Soon</div>
-            <div class="btn btn-coming">Student Guide</div>
-            <div class="btn btn-coming">Homework</div>
-        </div>
-        
-        <div class="lesson-card">
-            <h3>‚öôÔ∏è Week 3: Git & Setup</h3>
-            <div class="status">üîÑ Coming Soon</div>
-            <div class="btn btn-coming">Student Guide</div>
-            <div class="btn btn-coming">Homework</div>
-        </div>
-    </div>
 
-    <div style="margin-top: 40px; padding: 20px; background: white; border-radius: 8px;">
-        <h2>üõ†Ô∏è Content Creation Prompts</h2>
-        <div class="prompt-grid">
-            <a href="04_Student_Resources/PROMPT_LESSON_GUIDES.txt" class="btn btn-resource">Create Lesson Guides</a>
-            <a href="04_Student_Resources/PROMPT_CODE_EXAMPLES.txt" class="btn btn-examples">Create Code Examples</a>
-            <a href="04_Student_Resources/PROMPT_HOMEWORK_ASSIGNMENTS.txt" class="btn btn-homework">Create Homework</a>
-            <a href="04_Student_Resources/PROMPT_MINIPROJECTS.txt" class="btn btn-projects">Create Mini-Projects</a>
+        <div class="mac-notice">
+            <h3>Ì∫Ä Mac-Friendly Access</h3>
+            <p>Use the scripts in <code>Teaching_Kit_Launchers</code> on your Desktop</p>
+            <p>Or click any link below to open directly in your browser!</p>
         </div>
-        <a href="04_Student_Resources/MASTER_PROMPT_INDEX.txt" class="btn" style="background: #333;">Master Prompt Index</a>
+        
+        <div class="quick-links">
+            <div class="lesson-card">
+                <h3>Ì≥ñ Week 1: HTML Foundations</h3>
+                <div class="status">‚úÖ Guide Ready</div>
+                <a href="01_Student_Guides/week1_html_foundations.html" class="btn btn-ready">Open Student Guide</a>
+                <div class="btn">Homework (Coming Soon)</div>
+            </div>
+            
+            <div class="lesson-card">
+                <h3>Ìæ® Week 2: CSS Styling</h3>
+                <div class="status">Ì¥Ñ Coming Soon</div>
+                <div class="btn">Student Guide</div>
+                <div class="btn">Homework</div>
+            </div>
+        </div>
+
+        <div style="margin-top: 40px; padding: 20px; background: #f5f5f7; border-radius: 10px;">
+            <h2>Ìª†Ô∏è Content Creation Prompts</h2>
+            <div class="prompt-grid">
+                <a href="04_Student_Resources/PROMPT_LESSON_GUIDES.txt" class="btn btn-resource">Create Lesson Guides</a>
+                <a href="04_Student_Guides/week1_html_foundations.html" class="btn btn-ready">Open Week 1 Guide</a>
+                <a href="04_Student_Resources/PROMPT_CODE_EXAMPLES.txt" class="btn btn-examples">Create Code Examples</a>
+                <a href="04_Student_Resources/PROMPT_HOMEWORK_ASSIGNMENTS.txt" class="btn btn-homework">Create Homework</a>
+            </div>
+        </div>
+
+        <div style="margin-top: 30px; padding: 15px; background: #e8f4fd; border-radius: 8px;">
+            <h3>ÌΩé Mac Quick Tips:</h3>
+            <ul>
+                <li>Double-click <code>.command</code> files on your Desktop</li>
+                <li>Use <code>Command + Space</code> to quickly open Terminal</li>
+                <li>Right-click files ‚Üí "Open With" ‚Üí Choose browser</li>
+                <li>All scripts are in: <code>~/Desktop/Teaching_Kit_Launchers/</code></li>
+            </ul>
+        </div>
     </div>
 </body>
 </html>
